@@ -13,4 +13,4 @@ It fetches live exchange rates from ExchangeRate.host and displays currency flag
   (iii) Click Convert to see the result.
 
 **Live Demo:** 
-  https://darunrg-11.github.io/CurrencyConvertor/
+  https://darun-rg.github.io/CurrencyConvertor/
